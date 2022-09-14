@@ -20,4 +20,4 @@ const renderPokemon = async (pokemon) => {
   pokemonImage.src = data['sprites']['versions']['generation-v']['black-white']['animated']['front_default']
 };
 
-renderPokemon("88");
+renderPokemon("25");
